@@ -1,5 +1,5 @@
 ﻿Console.Write("Введите элементы массива через запятую: ");
-        string input = Console.ReadLine();
+        string input = Console.ReadLine()!;
 
         string[] inputArray = input.Split(',');
 
@@ -22,4 +22,20 @@
                 count++;
             }
         }
+
+
+
+        string[] resultArray = new string[count];
+        int index = 0;
+
+        for (int i = 0; i < inputArray.Length; i++)
+        {
+            if (inputArray[i].Length <= 3)
+            {
+                resultArray[index] = inputArray[i];
+                index++;
+            }
+        }
+
+        return resultArray;
     }
