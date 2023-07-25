@@ -1,0 +1,15 @@
+C:\Users\Alex\Documents\GitHub\atestation\bin\Debug\net7.0\atestation.exe
+C:\Users\Alex\Documents\GitHub\atestation\bin\Debug\net7.0\atestation.deps.json
+C:\Users\Alex\Documents\GitHub\atestation\bin\Debug\net7.0\atestation.runtimeconfig.json
+C:\Users\Alex\Documents\GitHub\atestation\bin\Debug\net7.0\atestation.dll
+C:\Users\Alex\Documents\GitHub\atestation\bin\Debug\net7.0\atestation.pdb
+C:\Users\Alex\Documents\GitHub\atestation\obj\Debug\net7.0\atestation.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\atestation\obj\Debug\net7.0\atestation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\GitHub\atestation\obj\Debug\net7.0\atestation.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\GitHub\atestation\obj\Debug\net7.0\atestation.AssemblyInfo.cs
+C:\Users\Alex\Documents\GitHub\atestation\obj\Debug\net7.0\atestation.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\GitHub\atestation\obj\Debug\net7.0\atestation.dll
+C:\Users\Alex\Documents\GitHub\atestation\obj\Debug\net7.0\refint\atestation.dll
+C:\Users\Alex\Documents\GitHub\atestation\obj\Debug\net7.0\atestation.pdb
+C:\Users\Alex\Documents\GitHub\atestation\obj\Debug\net7.0\atestation.genruntimeconfig.cache
+C:\Users\Alex\Documents\GitHub\atestation\obj\Debug\net7.0\ref\atestation.dll
